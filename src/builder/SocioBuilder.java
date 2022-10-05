@@ -1,7 +1,6 @@
-package padroescriacao.builder;
+package builder;
 
 import java.util.Date;
-import java.util.Objects;
 
 public class SocioBuilder {
 
